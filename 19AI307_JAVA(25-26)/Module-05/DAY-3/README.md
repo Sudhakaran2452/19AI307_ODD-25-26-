@@ -31,8 +31,8 @@ To read lines until "exit" is entered and display only the lines containing the 
  ```
 /*
 Program to implement a File Handling using Java
-Developed by: Abinav Sankar S
-RegisterNumber: 212222040002
+Developed by: Sudhakaran S
+RegisterNumber:  212222220051
 */
 ```
 
