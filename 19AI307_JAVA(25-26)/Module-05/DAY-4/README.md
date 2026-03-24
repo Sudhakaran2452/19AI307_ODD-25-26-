@@ -36,8 +36,8 @@ To read a thread name from the user, set it to the current thread, assign priori
  ```
 /*
 Program to implement a Thread Priority Concept using Java
-Developed by: Abinav Sankar S
-RegisterNumber: 212222040002
+Developed by: Sudhakaran S
+RegisterNumber:  212222220051
 */
 ```
 
