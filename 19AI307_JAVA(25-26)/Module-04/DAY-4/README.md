@@ -42,8 +42,8 @@ To implement the Factory Pattern that selects and returns the correct Notificati
  ```
 /*
 Program to implement a Abstract Factory Pattern using Java
-Developed by: Abinav Sankar S
-RegisterNumber: 212222040002
+Developed by: Sudhakaran S
+RegisterNumber:  212222220051
 */
 ```
 
