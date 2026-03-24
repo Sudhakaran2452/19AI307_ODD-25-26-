@@ -31,8 +31,8 @@ To demonstrate how a private inner class can be accessed from outside via an out
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: Abinav Sankar S
-RegisterNumber: 212222040002
+Developed by: Sudhakaran S
+RegisterNumber:  212222220051
 */
 ```
 
