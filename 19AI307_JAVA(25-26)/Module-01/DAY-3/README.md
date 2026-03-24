@@ -25,8 +25,8 @@ To display a right-angled triangle pattern using stars.
  ```
 /*
 Program to implement a Looping Statement using Java
-Developed by: Abinav Sankar S
-RegisterNumber:  212222040002
+Developed by: Sudhakaran S
+RegisterNumber:  212222220051
 */
 ```
 
