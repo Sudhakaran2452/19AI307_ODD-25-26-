@@ -32,8 +32,8 @@ To implement method overloading by defining two sum() methods: one for integers 
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by: Abinav Sankar S
-RegisterNumber: 212222040002
+Developed by: Sudhakaran S
+RegisterNumber:  212222220051
 */
 ```
 
