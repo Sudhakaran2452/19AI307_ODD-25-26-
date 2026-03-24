@@ -43,8 +43,8 @@ To read two integers, use a synchronized block to safely swap them, and display 
  ```
 /*
 Program to implement a Synchronization concept using Java
-Developed by: Abinav Sankar S
-RegisterNumber: 212222040002
+Developed by: Sudhakaran S
+RegisterNumber:  212222220051
 */
 ```
 
