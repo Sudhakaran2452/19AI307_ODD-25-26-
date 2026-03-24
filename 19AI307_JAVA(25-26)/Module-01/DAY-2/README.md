@@ -46,8 +46,8 @@ To check whether the counted number of legs can be correct considering adults ma
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: Abinav Sankar S
-RegisterNumber:  212222040002
+Developed by: Sudhakaran S
+RegisterNumber:  212222220051
 */
 ```
 
